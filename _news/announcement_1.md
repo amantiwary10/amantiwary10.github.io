@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: Sep 2021
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+Starting a new journey as a master's student at the University of Washington.🏫
