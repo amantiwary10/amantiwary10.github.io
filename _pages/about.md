@@ -19,7 +19,7 @@ Hello, and welcome! I appreciate you taking the time to explore my website. I re
 
 Building on this foundation, my broader research interests lies in developing efficient, real-time numerical algorithms for real-world applications. I am deeply intrigued by the potential of active vision techniques to enhance robust autonomous navigation, making intelligent systems more adaptable in dynamic environments.
 
-Before my academic journey at the University of Washington, I worked as a Senior Manger at [Tata Motors Ltd](https://www.tatamotors.com/)., where I was a part of the Cost Engineering Team. I tasked with generating cost avoidance opportunities for gearbox and engine cooling systems, all while maintaining the vehicle's performance.
+Before my academic journey at the University of Washington, I worked as a Senior Manger at [Tata Motors Ltd](https://www.tatamotors.com/)., where I was a part of the Cost Engineering Team. I was tasked with generating cost avoidance opportunities for gearbox and engine cooling systems, all while maintaining the vehicle's performance.
 
 Feel free to explore the projects section to see some of my work. If you’d like to chat or collaborate, I’d love to hear from you! You can reach me via email.
 
