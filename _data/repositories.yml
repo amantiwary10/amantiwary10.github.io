@@ -1,14 +1,10 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - amantiwary10
 
-repo_description_lines_max: 2
+repo_description_lines_max: 3
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - amantiwary10/ClothSimulationFilter
+  - amantiwary10/CSE571-IntelligentControl
+  - amantiwary10/Servo-Motor-System-Identification
+  - amantiwary10/UWFS
