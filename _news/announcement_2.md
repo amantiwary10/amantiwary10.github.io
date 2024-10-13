@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Joined Monarch Tractors as a Controls Engineering Intern
+Joined [Monarch Tractors](https://www.monarchtractor.com/) as a Controls Engineering Intern
