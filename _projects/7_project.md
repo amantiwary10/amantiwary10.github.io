@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Pointcloud Occlusion Culling
-description: Determine point visibility from a given viewpoint
+description: Point visibility determination from a given viewpoint
 img: assets/img/proj_7/proj_7_background.png
 importance: 4
 category: Research
