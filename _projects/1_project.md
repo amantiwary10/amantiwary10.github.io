@@ -3,7 +3,7 @@ layout: page
 title: Gaussian Process Regression for Li-Ion battery modeling
 description: 
 img: assets/img/proj_6/battery_model_project_background.png
-importance: 6
+importance: 7
 category: Coursework
 
 ---

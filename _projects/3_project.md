@@ -3,7 +3,7 @@ layout: page
 title: Reinforcement Learning for Flying Insect Robots
 description: 
 img: assets/img/proj_3/project_background_gif.gif
-importance: 4
+importance: 5
 category: Coursework
 --- 
 

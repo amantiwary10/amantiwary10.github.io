@@ -7,7 +7,7 @@ importance: 1
 category: Research
 ---
 
-This is my master’s thesis project. The primary objective is to develop a dynamically feasible trajectory for UAVs to perform continuous image acquisition during flight. The algorithm starts with a rough 3D scene proxy, serving as an initial model of the environment. Using this proxy, it computes both the UAV’s trajectory and the corresponding sensor poses necessary for optimal image capture.
+This is my master’s thesis. The primary objective is to develop a dynamically feasible trajectory for UAVs to perform continuous image acquisition during flight. The algorithm starts with a rough 3D scene proxy, serving as an initial model of the environment. Using this proxy, it computes the UAV’s trajectory and the corresponding sensor poses necessary for optimal image capture.
 
 The computed trajectory guarantees comprehensive scene coverage while respecting real-world flight constraints, such as velocity and acceleration limits, ensuring dynamic feasibility. The captured images are then processed to reconstruct a detailed, high-quality 3D model of the scene, which has applications in various domains, including inspection, mapping, and virtual reconstruction.
 
