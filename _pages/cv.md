@@ -4,10 +4,9 @@ permalink: /cv/
 title: cv
 nav: true
 nav_order: 5
-cv_pdf: CV - Aman Tiwary.pdf
-description: 
-toc:
-  sidebar: left
+# cv_pdf: CV - Aman Tiwary.pdf
+description:
+horizontal: false
 ---
 <!-- <iframe 
   src="https://drive.google.com/file/d/1rjmnSPFd5NNyWFSDS_ywOUsJEDerAQ4z/preview" 
